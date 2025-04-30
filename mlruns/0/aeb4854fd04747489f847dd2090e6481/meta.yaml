@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ianmadhara/Code/AI/cancer-detection/mlruns/0/aeb4854fd04747489f847dd2090e6481/artifacts
+end_time: 1745973545579
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: aeb4854fd04747489f847dd2090e6481
+run_name: grandiose-skink-93
+run_uuid: aeb4854fd04747489f847dd2090e6481
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745973540647
+status: 3
+tags: []
+user_id: ianmadhara
